@@ -1,0 +1,17 @@
+{
+  "name": "Айфоника — Белка и орешки",
+  "short_name": "Айфоника",
+  "start_url": "./?pwa=1",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#17191c",
+  "theme_color": "#17191c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
